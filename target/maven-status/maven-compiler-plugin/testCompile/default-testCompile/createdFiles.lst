@@ -1,0 +1,4 @@
+com\suny\service\SeckillServiceImplTest.class
+com\suny\dao\SuccessKilledMapperTest.class
+com\suny\dao\cache\RedisDaoTest.class
+com\suny\dao\SeckillMapperTest.class
